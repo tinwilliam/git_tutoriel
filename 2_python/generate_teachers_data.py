@@ -3,7 +3,7 @@ from faker import Faker
 
 DB_NAME = "school"
 DB_USER = "postgres"
-DB_PASS = ""
+B_PASSWORD = ""
 DB_HOST = "localhost"
 DB_PORT = 5432
 

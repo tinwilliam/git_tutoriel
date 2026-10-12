@@ -4,7 +4,7 @@ from datetime import datetime
 
 DB_NAME = "school"
 DB_USER = "postgres"
-DB_PASS = ""
+DB_PASSWORD = ""
 DB_HOST = "localhost"
 DB_PORT = 5432
 
